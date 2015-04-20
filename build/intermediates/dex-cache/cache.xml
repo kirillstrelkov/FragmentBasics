@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2">
+
+    <item jar="/home/kirill/AndroidStudioProjects/FragmentBasics/app/libs/android-support-v4.jar"
+        jumboMode="false" revision="21.1.2" sha1="53307dc2bd2b69fd5533458ee11885f55807de4b">
+        <dex
+            dex="/home/kirill/AndroidStudioProjects/FragmentBasics/app/build/intermediates/pre-dexed/debug/android-support-v4-48f3c04634078bf40fd861f5ad3d6a609452a762.jar" />
+    </item>
+
+</items>
